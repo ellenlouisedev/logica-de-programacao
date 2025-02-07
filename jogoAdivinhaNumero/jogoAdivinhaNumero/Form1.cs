@@ -42,17 +42,29 @@ namespace jogoAdivinhaNumero
                 }
                 else
                 {
-                    creditos = creditos - 1;
+                    creditos = creditos - 2;
                     lblCreditos.Text = creditos.ToString();
                     lblResultado.ForeColor = Color.Red;
                     lblResultado.Text = "Resultado: Você errou, número sorteado: " + numeroAleatorio;
                 }
+            }
+            if (creditos == 0)
+            {
+                lblResultado.ForeColor = Color.Red;
+                lblResultado.Text = "Você está sem créditos. Clique no botão recarregar.";
             }
         }
 
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnRecarregar_Click(object sender, EventArgs e)
+        {
+            tbxNumero.Clear();
+            lblResultado.Text = "Resultado: ";
+            lblCreditos.Text = "10";
         }
     }
 }
