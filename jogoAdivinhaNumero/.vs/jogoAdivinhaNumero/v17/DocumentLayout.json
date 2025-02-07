@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\jogoAdivinhaNumero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDE7906-17E1-4B75-8A34-EA8354255DF1}|jogoAdivinhaNumero\\jogoAdivinhaNumero.csproj|d:\\users\\aluno\\atividades\\logica-programacao\\turma2025\\jogoadivinhanumero\\jogoadivinhanumero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEDE7906-17E1-4B75-8A34-EA8354255DF1}|jogoAdivinhaNumero\\jogoAdivinhaNumero.csproj|solutionrelative:jogoadivinhanumero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDE7906-17E1-4B75-8A34-EA8354255DF1}|jogoAdivinhaNumero\\jogoAdivinhaNumero.csproj|d:\\users\\aluno\\atividades\\logica-programacao\\turma2025\\jogoadivinhanumero\\jogoadivinhanumero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDE7906-17E1-4B75-8A34-EA8354255DF1}|jogoAdivinhaNumero\\jogoAdivinhaNumero.csproj|solutionrelative:jogoadivinhanumero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\jogoAdivinhaNumero\\jogoAdivinhaNumero\\Form1.cs",
+              "RelativeDocumentMoniker": "jogoAdivinhaNumero\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\jogoAdivinhaNumero\\jogoAdivinhaNumero\\Form1.cs",
+              "RelativeToolTip": "jogoAdivinhaNumero\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAD4vx8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:31:03.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\jogoAdivinhaNumero\\jogoAdivinhaNumero\\Form1.cs",
+              "RelativeDocumentMoniker": "jogoAdivinhaNumero\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\jogoAdivinhaNumero\\jogoAdivinhaNumero\\Form1.cs [Design]",
+              "RelativeToolTip": "jogoAdivinhaNumero\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:30:41.516Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

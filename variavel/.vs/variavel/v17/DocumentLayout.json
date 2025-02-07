@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\variavel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C18CB79-6BC1-4A72-89C3-46FCD041719C}|variavel\\variavel.csproj|d:\\users\\aluno\\atividades\\logica-programacao\\turma2025\\variavel\\variavel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C18CB79-6BC1-4A72-89C3-46FCD041719C}|variavel\\variavel.csproj|solutionrelative:variavel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\variavel\\variavel\\Program.cs",
+              "RelativeDocumentMoniker": "variavel\\Program.cs",
+              "ToolTip": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\variavel\\variavel\\Program.cs",
+              "RelativeToolTip": "variavel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:31:23.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

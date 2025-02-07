@@ -1,0 +1,10 @@
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\bin\Debug\jogoAdivinhaNumero.exe.config
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\bin\Debug\jogoAdivinhaNumero.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\bin\Debug\jogoAdivinhaNumero.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\obj\Debug\jogoAdivinhaNumero.csproj.AssemblyReference.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\obj\Debug\jogoAdivinhaNumero.Form1.resources
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\obj\Debug\jogoAdivinhaNumero.Properties.Resources.resources
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\obj\Debug\jogoAdivinhaNumero.csproj.GenerateResource.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\obj\Debug\jogoAdivinhaNumero.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\obj\Debug\jogoAdivinhaNumero.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\jogoAdivinhaNumero\jogoAdivinhaNumero\obj\Debug\jogoAdivinhaNumero.pdb

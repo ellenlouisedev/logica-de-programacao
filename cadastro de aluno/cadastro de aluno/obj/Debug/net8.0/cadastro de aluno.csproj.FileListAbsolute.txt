@@ -1,0 +1,14 @@
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\bin\Debug\net8.0\cadastro de aluno.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\bin\Debug\net8.0\cadastro de aluno.deps.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\bin\Debug\net8.0\cadastro de aluno.runtimeconfig.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\bin\Debug\net8.0\cadastro de aluno.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\bin\Debug\net8.0\cadastro de aluno.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\cadastro de aluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\cadastro de aluno.AssemblyInfoInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\cadastro de aluno.AssemblyInfo.cs
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\cadastro de aluno.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\cadastro de aluno.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\refint\cadastro de aluno.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\cadastro de aluno.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\cadastro de aluno.genruntimeconfig.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cadastro de aluno\cadastro de aluno\obj\Debug\net8.0\ref\cadastro de aluno.dll

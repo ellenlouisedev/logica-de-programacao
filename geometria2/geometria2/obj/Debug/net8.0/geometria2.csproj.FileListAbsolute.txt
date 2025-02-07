@@ -1,0 +1,14 @@
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.deps.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.runtimeconfig.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\bin\Debug\net8.0\geometria2.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.AssemblyInfoInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.AssemblyInfo.cs
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\refint\geometria2.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\geometria2.genruntimeconfig.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\geometria2\geometria2\obj\Debug\net8.0\ref\geometria2.dll
