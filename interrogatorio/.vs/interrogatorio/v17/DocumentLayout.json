@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\interrogatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA6E54-F9F6-42CF-BD17-004A2AF3BC86}|interrogatorio\\interrogatorio.csproj|d:\\users\\aluno\\atividades\\logica-programacao\\turma2025\\interrogatorio\\interrogatorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AA6E54-F9F6-42CF-BD17-004A2AF3BC86}|interrogatorio\\interrogatorio.csproj|solutionrelative:interrogatorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA6E54-F9F6-42CF-BD17-004A2AF3BC86}|interrogatorio\\interrogatorio.csproj|d:\\users\\aluno\\atividades\\logica-programacao\\turma2025\\interrogatorio\\interrogatorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76AA6E54-F9F6-42CF-BD17-004A2AF3BC86}|interrogatorio\\interrogatorio.csproj|solutionrelative:interrogatorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\interrogatorio\\interrogatorio\\Form1.cs",
+              "RelativeDocumentMoniker": "interrogatorio\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\interrogatorio\\interrogatorio\\Form1.cs",
+              "RelativeToolTip": "interrogatorio\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:58:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\interrogatorio\\interrogatorio\\Form1.cs",
+              "RelativeDocumentMoniker": "interrogatorio\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\interrogatorio\\interrogatorio\\Form1.cs [Design]",
+              "RelativeToolTip": "interrogatorio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:41:53.262Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

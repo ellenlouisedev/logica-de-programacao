@@ -1,0 +1,15 @@
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\bin\Debug\net8.0\escreverString.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\bin\Debug\net8.0\escreverString.deps.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\bin\Debug\net8.0\escreverString.runtimeconfig.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\bin\Debug\net8.0\escreverString.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\bin\Debug\net8.0\escreverString.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.AssemblyInfoInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.AssemblyInfo.cs
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.sourcelink.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\refint\escreverString.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\escreverString.genruntimeconfig.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\escreverString\escreverString\obj\Debug\net8.0\ref\escreverString.dll

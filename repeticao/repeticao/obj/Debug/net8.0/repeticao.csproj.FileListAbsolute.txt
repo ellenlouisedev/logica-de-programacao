@@ -1,0 +1,15 @@
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.AssemblyInfoInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.AssemblyInfo.cs
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.sourcelink.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\bin\Debug\net8.0\repeticao.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\bin\Debug\net8.0\repeticao.deps.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\bin\Debug\net8.0\repeticao.runtimeconfig.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\bin\Debug\net8.0\repeticao.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\bin\Debug\net8.0\repeticao.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\refint\repeticao.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\repeticao.genruntimeconfig.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\repeticao\repeticao\obj\Debug\net8.0\ref\repeticao.dll

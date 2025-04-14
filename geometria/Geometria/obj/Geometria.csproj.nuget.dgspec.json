@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\Geometria\\Geometria\\Geometria.csproj": {}
+    "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\geometria\\Geometria\\Geometria.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\Geometria\\Geometria\\Geometria.csproj": {
+    "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\geometria\\Geometria\\Geometria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\Geometria\\Geometria\\Geometria.csproj",
+        "projectUniqueName": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\geometria\\Geometria\\Geometria.csproj",
         "projectName": "Geometria",
-        "projectPath": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\Geometria\\Geometria\\Geometria.csproj",
+        "projectPath": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\geometria\\Geometria\\Geometria.csproj",
         "packagesPath": "D:\\Users\\Aluno\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\Aluno\\atividades\\logica-programacao\\turma2025\\Geometria\\Geometria\\obj\\",
         "projectStyle": "PackageReference",

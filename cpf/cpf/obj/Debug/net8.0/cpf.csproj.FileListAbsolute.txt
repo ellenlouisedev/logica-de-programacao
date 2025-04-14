@@ -1,0 +1,15 @@
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\bin\Debug\net8.0\cpf.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\bin\Debug\net8.0\cpf.deps.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\bin\Debug\net8.0\cpf.runtimeconfig.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\bin\Debug\net8.0\cpf.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\bin\Debug\net8.0\cpf.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.AssemblyInfoInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.AssemblyInfo.cs
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.sourcelink.json
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\refint\cpf.dll
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\cpf.genruntimeconfig.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\cpf\cpf\obj\Debug\net8.0\ref\cpf.dll

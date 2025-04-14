@@ -1,0 +1,10 @@
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\bin\Debug\interrogatorio.exe.config
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\bin\Debug\interrogatorio.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\bin\Debug\interrogatorio.pdb
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\obj\Debug\interrogatorio.csproj.AssemblyReference.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\obj\Debug\interrogatorio.Form1.resources
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\obj\Debug\interrogatorio.Properties.Resources.resources
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\obj\Debug\interrogatorio.csproj.GenerateResource.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\obj\Debug\interrogatorio.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\obj\Debug\interrogatorio.exe
+D:\Users\Aluno\atividades\logica-programacao\turma2025\interrogatorio\interrogatorio\obj\Debug\interrogatorio.pdb
